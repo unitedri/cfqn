@@ -1,0 +1,156 @@
+* {
+	padding: 0;
+    margin: 0;
+
+}
+.header {
+	
+	background: linear-gradient(450deg, green, blue, white );
+	
+}
+.container  {
+ 
+ max-width: 877px; 
+ margin: 0 auto; 
+ 
+
+}
+
+.header__container {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 20px 0px;
+	flex-wrap: wrap; 
+
+}
+ .nav__list{
+ display: flex;
+list-style: none;
+ }
+.nav__item{
+	margin-right: 30px;
+	margin-top:1px;
+	color: black;
+	list-style: none;  
+}
+.hero-block__img{
+	max-width: 400px;
+	height: 373px;
+	margin-top: 10px;
+	
+}
+.hero-block{
+	display: flex; 
+
+}
+.hero-block__item{
+	margin-top: 30px;
+	margin-left: 30px;
+}
+.hero-block__button{
+        
+	margin-top: 180px;
+	background-color: yellow;
+	color: black;
+	padding: 20px; 
+	margin-left: 30px ;
+
+
+}
+.hero-block__container{
+	display: flex;
+}
+.hero-block{ 
+	background: linear-gradient(450deg, green, blue, white);
+	
+}
+.hero-block__button:hover{
+	color: blue;
+}
+.nav__item:hover{
+	color: blue;
+}
+.video{
+background: linear-gradient(450deg, green, blue, white);
+}
+.video__container{
+	padding: 60px 0px;
+	text-align: center;
+}
+
+.video__title{
+color: rgb(44, 44, 44);
+font-family: Inter;
+font-size: 48px;
+font-weight: 400;
+line-height: 58px;
+letter-spacing: 0px;
+text-align: center;
+margin-bottom: 50px;
+}
+.video__video{
+	width: 100%;
+	height: 538px;
+	border: 53px solid white;
+	border-radius: 29px;
+	box-sizing: border-box;
+}
+.footer{
+	margin-bottom: 10px;
+	padding: 15px 0px;
+	background: linear-gradient(450deg, green, blue, white);
+}
+.footer__container{
+	display: flex;
+	align-items: center;
+justify-content: space-between;}
+
+
+
+
+.footer__img{
+	display: flex;
+	align-items: center;
+}
+.footer__list{
+	display: flex;
+	
+}
+.footer__img:hover{
+	color: blue;
+}
+.footer__title{
+	color: rgb(44, 44, 44);
+font-family: Inter;
+font-size: 24px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0px;
+text-align: left;
+}
+.footer__text{
+	color: rgb(44, 44, 44);
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0px;
+text-align: left;
+}
+.hero-block__item2{
+
+
+.hero-block__img2{
+	width: 100%;
+	gap: 50px;
+	align-items: center;
+	width: 300px;
+	height: 90px;
+}
+.hero-block__container2{
+	  
+}
+
+
+
